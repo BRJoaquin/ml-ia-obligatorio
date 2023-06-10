@@ -11,6 +11,9 @@
 7. [Implementation Steps](#implementation-steps)
 8. [Technology Stack](#technology-stack)
 9. [Target Audience](#target-audience)
+10. [Run this project](#run-this-project)
+    1. [Prerequisites](#prerequisites)
+    2. [Installation](#installation)
 
 ## Project Description
 
