@@ -14,6 +14,8 @@
 
 ## Project Description
 
+![Team](/assets/team.png)
+
 The aim of this project is to apply machine learning classification techniques to the problem of object detection in images, specifically focusing on face detection. We will use the simpler machine learning-based algorithms due to their lower computational cost, which makes them suitable for modern devices.
 
 ## Image and Features
@@ -23,6 +25,8 @@ We'll work with grayscale images, representing each image as a 2D matrix. Instea
 ## Face Detectors
 
 We'll build face detectors from classifiers. We'll have a training dataset consisting of images with labels indicating if it's a face or not. Our main goal will be to develop lightweight classifiers (computationally speaking) to detect if an image is a face.
+
+![Face](/assets/face.png)
 
 ## Haar Features
 
