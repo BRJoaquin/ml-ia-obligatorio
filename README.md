@@ -61,3 +61,24 @@ This project will be implemented using Python, with development conducted in Jup
 ## Target Audience
 
 This project is intended as a submission for the course "Machine Learning for Artificial Intelligence". The target audience for this document and the associated implementation are the course instructors.
+
+## Run this project
+
+### Prerequisites
+
+To execute this project successfully, you need to have the following installed:
+
+1. **Conda**: We'll use Conda, an open-source package management and environment management system that runs on Windows, macOS, and Linux. Conda quickly installs, runs, and updates packages and their dependencies. You can download it [here](https://docs.conda.io/en/latest/miniconda.html).
+
+2. **Python**: The project is implemented in Python. If you're using Conda, you don't have to install Python separately as Conda already includes it.
+
+After you've installed Conda, you can create a new environment and install all dependencies using an environment file `environment.yml` that we've included in the project.
+
+### Installation
+
+1. Clone this repository
+2. Go to the project directory: `cd ml-ia-obligatorio`
+3. Create the Conda environment: `conda env create -f environment.yml`
+4. Activate the environment: `conda activate face_detection`
+
+You're now ready to run the project! 🚀🚀
